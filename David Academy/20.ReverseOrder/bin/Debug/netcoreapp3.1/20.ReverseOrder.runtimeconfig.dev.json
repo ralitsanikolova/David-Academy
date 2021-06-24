@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rali\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rali\\.nuget\\packages"
+    ]
+  }
+}

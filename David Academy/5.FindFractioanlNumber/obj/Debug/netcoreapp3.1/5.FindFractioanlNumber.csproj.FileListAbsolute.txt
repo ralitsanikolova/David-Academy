@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.exe
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.deps.json
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.runtimeconfig.json
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.runtimeconfig.dev.json
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.dll
+D:\David Academy\David Academy\5.FindFractioanlNumber\bin\Debug\netcoreapp3.1\5.FindFractioanlNumber.pdb
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.AssemblyInfo.cs
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.dll
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.pdb
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.genruntimeconfig.cache
+D:\David Academy\David Academy\5.FindFractioanlNumber\obj\Debug\netcoreapp3.1\5.FindFractioanlNumber.csprojAssemblyReference.cache

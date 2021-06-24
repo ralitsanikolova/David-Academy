@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.exe
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.deps.json
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.runtimeconfig.json
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.runtimeconfig.dev.json
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.dll
+D:\David Academy\David Academy\6.FindingPrimeNumbers\bin\Debug\netcoreapp3.1\6.FindingPrimeNumbers.pdb
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.csprojAssemblyReference.cache
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.AssemblyInfo.cs
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.dll
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.pdb
+D:\David Academy\David Academy\6.FindingPrimeNumbers\obj\Debug\netcoreapp3.1\6.FindingPrimeNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.exe
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.deps.json
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.runtimeconfig.json
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.runtimeconfig.dev.json
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.dll
+D:\David Academy\David Academy\2.NameAndCourseName\bin\Debug\netcoreapp3.1\2.NameAndCourseName.pdb
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.csprojAssemblyReference.cache
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.AssemblyInfo.cs
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.dll
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.pdb
+D:\David Academy\David Academy\2.NameAndCourseName\obj\Debug\netcoreapp3.1\2.NameAndCourseName.genruntimeconfig.cache

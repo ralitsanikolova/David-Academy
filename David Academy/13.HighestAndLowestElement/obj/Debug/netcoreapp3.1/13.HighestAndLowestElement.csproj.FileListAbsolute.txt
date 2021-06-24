@@ -1,0 +1,12 @@
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.exe
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.deps.json
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.runtimeconfig.json
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.runtimeconfig.dev.json
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.dll
+D:\David Academy\David Academy\13.HighestAndLowestElement\bin\Debug\netcoreapp3.1\13.HighestAndLowestElement.pdb
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.AssemblyInfo.cs
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.dll
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.pdb
+D:\David Academy\David Academy\13.HighestAndLowestElement\obj\Debug\netcoreapp3.1\13.HighestAndLowestElement.genruntimeconfig.cache
