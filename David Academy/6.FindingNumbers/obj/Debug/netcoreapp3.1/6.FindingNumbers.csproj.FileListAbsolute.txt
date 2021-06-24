@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.exe
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.deps.json
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.runtimeconfig.json
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.runtimeconfig.dev.json
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.dll
+D:\David Academy\David Academy\6.FindingNumbers\bin\Debug\netcoreapp3.1\6.FindingNumbers.pdb
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.AssemblyInfo.cs
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.dll
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.pdb
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.genruntimeconfig.cache
+D:\David Academy\David Academy\6.FindingNumbers\obj\Debug\netcoreapp3.1\6.FindingNumbers.csprojAssemblyReference.cache
