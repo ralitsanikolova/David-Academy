@@ -11,7 +11,7 @@ namespace _1.DiscriminantOfSquare_Root
 
             Console.WriteLine("Please enter a:");
             double aDiscr = double.Parse(Console.ReadLine());
-            Console.WriteLine("Please enter a:");
+            Console.WriteLine("Please enter b:");
             double bDiscr = double.Parse(Console.ReadLine());
             Console.WriteLine("Please enter c:");
             double cDiscr = double.Parse(Console.ReadLine());
