@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.exe
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.deps.json
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.runtimeconfig.json
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.runtimeconfig.dev.json
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.dll
+D:\David Academy\David Academy\28.SoftwareAcademy\bin\Debug\netcoreapp3.1\28.SoftwareAcademy.pdb
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.csprojAssemblyReference.cache
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.AssemblyInfo.cs
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.dll
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.pdb
+D:\David Academy\David Academy\28.SoftwareAcademy\obj\Debug\netcoreapp3.1\28.SoftwareAcademy.genruntimeconfig.cache

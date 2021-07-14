@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.exe
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.deps.json
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.runtimeconfig.json
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.runtimeconfig.dev.json
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.dll
+D:\David Academy\David Academy\9.QuadraticEquation\bin\Debug\netcoreapp3.1\9.QuadraticEquation.pdb
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.csprojAssemblyReference.cache
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.AssemblyInfo.cs
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.dll
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.pdb
+D:\David Academy\David Academy\9.QuadraticEquation\obj\Debug\netcoreapp3.1\9.QuadraticEquation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.exe
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.deps.json
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.runtimeconfig.json
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.runtimeconfig.dev.json
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.dll
+D:\David Academy\David Academy\7.Factorial\bin\Debug\netcoreapp3.1\7.Factorial.pdb
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.AssemblyInfo.cs
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.dll
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.pdb
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.genruntimeconfig.cache
+D:\David Academy\David Academy\7.Factorial\obj\Debug\netcoreapp3.1\7.Factorial.csprojAssemblyReference.cache

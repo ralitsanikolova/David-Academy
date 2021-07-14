@@ -1,0 +1,3 @@
+D:\David Academy\David Academy\22.SortedArrayBinarySearch\obj\Debug\netcoreapp3.1\22.SortedArrayBinarySearch.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\22.SortedArrayBinarySearch\obj\Debug\netcoreapp3.1\22.SortedArrayBinarySearch.AssemblyInfo.cs
+D:\David Academy\David Academy\22.SortedArrayBinarySearch\obj\Debug\netcoreapp3.1\22.SortedArrayBinarySearch.csproj.CoreCompileInputs.cache

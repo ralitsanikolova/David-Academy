@@ -1,0 +1,12 @@
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.exe
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.deps.json
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.runtimeconfig.json
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.runtimeconfig.dev.json
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.dll
+D:\David Academy\David Academy\8.Fibonachi\bin\Debug\netcoreapp3.1\8.Fibonacci.pdb
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.AssemblyInfo.cs
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.dll
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.pdb
+D:\David Academy\David Academy\8.Fibonachi\obj\Debug\netcoreapp3.1\8.Fibonacci.genruntimeconfig.cache

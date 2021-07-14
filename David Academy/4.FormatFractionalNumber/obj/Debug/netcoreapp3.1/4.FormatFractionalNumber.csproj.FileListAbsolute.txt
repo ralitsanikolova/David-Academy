@@ -1,0 +1,12 @@
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.exe
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.deps.json
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.runtimeconfig.json
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.runtimeconfig.dev.json
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.dll
+D:\David Academy\David Academy\4.FormatFractionalNumber\bin\Debug\netcoreapp3.1\4.FormatFractionalNumber.pdb
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.AssemblyInfoInputs.cache
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.AssemblyInfo.cs
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.csproj.CoreCompileInputs.cache
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.dll
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.pdb
+D:\David Academy\David Academy\4.FormatFractionalNumber\obj\Debug\netcoreapp3.1\4.FormatFractionalNumber.genruntimeconfig.cache
